@@ -1,0 +1,17 @@
+{
+  "name": "presentations-nodejs",
+  "version": "1.0.0",
+  "description": "Server-Side JavaScript - NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/b3ns44d/presentations-nodejs",
+  "author": "B3ns44d",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
